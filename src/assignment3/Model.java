@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Model class for the Character Editor
  * @author leggy (Lachlan Healey)
- * @author Weiye Zhao
+ * @author Wayne
  */
 public class Model {
 	

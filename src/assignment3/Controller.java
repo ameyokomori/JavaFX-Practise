@@ -28,7 +28,7 @@ import javafx.stage.FileChooser;
  * Controller class for the Character Editor.
  * 
  * @author leggy (Lachlan Healey)
- * @author Weiye Zhao
+ * @author Wayne
  */
 public class Controller implements Initializable{
 	/* The model for the editor */
